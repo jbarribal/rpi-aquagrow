@@ -1,0 +1,2 @@
+neutralVoltage=1490
+acidVoltage=2032.44
