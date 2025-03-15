@@ -6,7 +6,7 @@ token = os.environ.get("INFLUXDB_TOKEN")
 org = "dev"
 url = "https://us-east-1-1.aws.cloud2.influxdata.com"
 #token = "9Lh8NG3kvtL9uww6Ir5P4ZySboZWmF0Hg75rzL-XdXXpaM0pG-DyjyC7NduKt5tA5TZfkz3OYDtmFq7skCDEnQ=="
-token = "n2TK4tu9UOPRHB_wKnNSXhuVlmZRCUyhnD7ZHpLDAOv1zfTHCDi8JAx474vM-zQNhcHnoLYRbbUYpEQ19Ps9LQ=="
+token = " "
 write_client = influxdb_client.InfluxDBClient(url=url, token=token, org=org)
 
 bucket="rpi3test"

@@ -8,7 +8,7 @@ from influxdb_client.client.write_api import SYNCHRONOUS
 
 
 #dhtDevice = adafruit_dht.DHT22(board.D17)
-token = "n2TK4tu9UOPRHB_wKnNSXhuVlmZRCUyhnD7ZHpLDAOv1zfTHCDi8JAx474vM-zQNhcHnoLYRbbUYpEQ19Ps9LQ=="
+token = " "
 org = "dev"
 url = "https://us-east-1-1.aws.cloud2.influxdata.com"
 bucket = "rpi3test"

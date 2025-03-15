@@ -20,7 +20,7 @@ from influxdb_client.client.write_api import SYNCHRONOUS
 ADS1115_REG_CONFIG_PGA_4_096V        = 0x02
 
 #influxdb
-token = "n2TK4tu9UOPRHB_wKnNSXhuVlmZRCUyhnD7ZHpLDAOv1zfTHCDi8JAx474vM-zQNhcHnoLYRbbUYpEQ19Ps9LQ=="
+token = " "
 org = "dev"
 url = "https://us-east-1-1.aws.cloud2.influxdata.com"
 bucket = "rpi3test"
